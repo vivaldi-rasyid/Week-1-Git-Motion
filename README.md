@@ -1,3 +1,3 @@
 # Week-1-Git-Motion
 
-ini baru sadassaads dasdasaasdsdas
+ini baru
